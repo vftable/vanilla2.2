@@ -1,0 +1,13 @@
+{
+	"geode": "1.0.0-beta.18",
+	"version": "v1.0.0",
+	"id": "syndicated.platformer",
+	"name": "platformer",
+	"developer": "syndicated",
+	"description": "",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
